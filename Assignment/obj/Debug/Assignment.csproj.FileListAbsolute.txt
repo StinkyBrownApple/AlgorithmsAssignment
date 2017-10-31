@@ -1,0 +1,18 @@
+C:\Users\Computing\Desktop\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Computing\Desktop\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Computing\Desktop\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Computing\Desktop\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Computing\Desktop\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Computing\Desktop\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Ste\Dropbox\Uni Work\Algorithms\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Ste\Dropbox\Uni Work\Algorithms\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Ste\Dropbox\Uni Work\Algorithms\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Ste\Dropbox\Uni Work\Algorithms\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Ste\Dropbox\Uni Work\Algorithms\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Ste\Dropbox\Uni Work\Algorithms\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Computing\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Computing\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Computing\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Computing\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Computing\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Computing\Desktop\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
